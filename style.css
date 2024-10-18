@@ -1,11 +1,15 @@
 body {
-    background-color: #D6E4F0
+    background-color: #9fc8ec
 }
 
-.refeitorio {
-    text-align: center;
+.header-img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.titulo_refeitorio {
-    text-align: center;
+.refeitorio img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
